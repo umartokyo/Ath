@@ -4,9 +4,9 @@ Welcome to Ath, a community-driven knowledge sharing platform for curious minds 
 Ath is an open-source repository designed to be a collaborative notebook where geeks can share their knowledge, insights, and passion projects. Our goal is to create a diverse, high-quality collection of notes, articles, insights, passion projects on tech and other topics.
 
 ## How It Works 🤔
--**GitHUB Repository**: Ath lives on Github, leveraging ease of use, version control, collaborative editing and other features.
--**Markdown Files**: All main contents are written in Markdown format  (.md) for easy editing and viewing. 
--**Obsidian**: While it's not required, we recommend using Obsidian to view the repository locally, which enables powerful features like backlinks, plugins and graph view.
+- **GitHUB Repository**: Ath lives on Github, leveraging ease of use, version control, collaborative editing and other features.
+- **Markdown Files**: All main contents are written in Markdown format  (.md) for easy editing and viewing. 
+- **Obsidian**: While it's not required, we recommend using Obsidian to view the repository locally, which enables powerful features like backlinks, plugins and graph view.
 
 ## Getting Started 🏁
 1. **Explore**: Explore our existing knowledge-base.
@@ -35,7 +35,7 @@ Here's how you can participate:
 
 Please read our [Contributing](CONTRIBUTING.md) file for detailed guidelines.
 
-## Using Obsidian 🗒️
+## Using Obsidian 🔮
 While Ath can be browsed directly on GitHub, using Obsidian can enhance your experience:
 1. Download and install Obsidian from [obsidian.md](https://obsidian.md)
 2. Open the cloned Ath repository as a vault in Obsidian
