@@ -5,16 +5,16 @@ Neural network is a computational model inspired by the way biological neural ne
 ![[neural_network.png]]
 ## Structure
 Neural network consists of three main categories: 
-- Input Layer: Receives the initial data. Each neuron represents a feature from your dataset.
-- Hidden Layer(s): Processes the information from the previous layer.
+- **Input Layer**: Receives the initial data. Each neuron represents a feature from your dataset.
+- **Hidden Layer**(s): Processes the information from the previous layer.
 	- **Shallow Neural Network** - a neural network with single hidden layer.
 	- **Deep Neural Network** - a neural network with multiple hidden layers.
-- Output Layer: Returns the final result / prediction.
+- **Output Layer**: Returns the final result / prediction.
 ## Key Components
 1. [Neurons / Nodes](neuron): Basic units, that receive input, process it, and return output.
 2. Weights: A certain value which indicated the strength of the connection between neurons.
 3. Bias: An additional parameter to the adjust the output of each neuron.
-4. [Activation Function](activation function): Determines whenever signal should progress through the network.
+4. [Activation Function]([[activation function]]): Determines whenever signal should progress through the network.
 ## How Neural Networks Learn
 1. [Forward Propagation](forward propagaion): Input data moves through the network, later by later, until it reaches the output.
 2. [Loss Calculation](loss function): Measures the difference between the predicted and real value.
