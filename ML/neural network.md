@@ -16,10 +16,10 @@ Neural network consists of three main categories:
 3. Bias: An additional parameter to the adjust the output of each neuron.
 4. [Activation Function]([[activation function]]): Determines whenever signal should progress through the network.
 ## How Neural Networks Learn
-1. [Forward Propagation](forward propagaion): Input data moves through the network, later by later, until it reaches the output.
-2. [Loss Calculation](loss function): Measures the difference between the predicted and real value.
-3. [Backpropagation](backpropagation): The error is propagated backwards through the network to adjust its weights and biases.
-4. [Optimization](optimization function) An algorithm that updates the parameters to minimize the loss.
+1. [[forward propagation]]: Input data moves through the network, later by later, until it reaches the output.
+2. [[cost function]]: Measures the difference between the predicted and real value.
+3. [[backpropagation]]: The error is propagated backwards through the network to adjust its weights and biases.
+4. [[optimization function]] An algorithm that updates the parameters to minimize the loss.
 ## Advantages and Challenges
 Advantages:
 - Learns complex, non-linear relationships from data.
