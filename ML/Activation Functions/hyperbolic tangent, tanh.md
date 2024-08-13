@@ -6,8 +6,8 @@ $$tanh(x)=\frac{e^x-e^{-x}}{e^x+e^{-x}}$$
 
 ![[tanh_curve.png]]
 ## Characteristics
-- Similar to [[logistic, sigmoid]] but zero-centered.
-- Prone to [[vanishing gradient]] problem.
+- Similar to logistic, sigmoid but zero-centered.
+- Prone to vanishing gradient problem.
 ## Use cases
 - Hidden layers in some networks.
 - Regression Problems.

@@ -1,6 +1,6 @@
 2024/08/02, #ML #wiki #umarik 
 
-Neural network is a computational model inspired by the way biological neural networks from our brains process information. It consists of layers of [[neuron]]s, which makes it possible for the model to learn and make decision based on the input data. Neural networks are key components for deep learning and are widely used for tasks like [[classification]], [[regression]], image and [[speech recognition]]...
+Neural network is a computational model inspired by the way biological neural networks from our brains process information. It consists of layers of [[artificial neuron]]s, which makes it possible for the model to learn and make decision based on the input data. Neural networks are key components for deep learning and are widely used for tasks like [[classification]], [[regression]], image and [[speech recognition]]...
 
 ![[neural_network.png]]
 ## Structure
@@ -11,7 +11,7 @@ Neural network consists of three main categories:
 	- **Deep Neural Network** - a neural network with multiple hidden layers.
 - **Output Layer**: Returns the final result / prediction.
 ## Key Components
-1. [Neurons / Nodes](neuron): Basic units, that receive input, process it, and return output.
+1. [Neurons / Nodes](artificial%20neuron.md): Basic units, that receive input, process it, and return output.
 2. Weights: A certain value which indicated the strength of the connection between neurons.
 3. Bias: An additional parameter to the adjust the output of each neuron.
 4. [Activation Function]([[activation function]]): Determines whenever signal should progress through the network.
