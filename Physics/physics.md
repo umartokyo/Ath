@@ -19,4 +19,4 @@ Modern Physics:
 - ! R.Q.M's math is really complicated as it's used only when necessary.
 
 ---
-[[fundamental units]], [[accuracy, precision, uncertainty]].
+[[fundamental units]], [[accuracy, precision, uncertainty]], [[kinematics]],

@@ -1,4 +1,4 @@
-# Ath:  Collaborative Notebook for Geeks 👾
+# Ath:  Collaborative Notebook
 Welcome to Ath, a community-driven knowledge sharing platform for curious minds who like to explore, learn, share knowledge and invent new things. 
 
 Ath is an open-source repository designed to be a collaborative notebook where geeks can share their knowledge, insights, and passion projects. Our goal is to create a diverse, high-quality collection of notes, articles, insights, passion projects on tech and other topics.
