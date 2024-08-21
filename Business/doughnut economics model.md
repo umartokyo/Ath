@@ -6,3 +6,5 @@ Sustainability: meeting the needs of al within the means of the planet.
 	- Red areas show the sectors where we're already putting too much pressure on Earth's systems.
 	- Meeting human needs while respecting health of the planet means getting into safe green are.
 - Note how doughnut's inner circle overlaps with SDG's (Sustainable Development Goals).
+## Ted Ed Video
+![](https://www.youtube.com/watch?v=Rhcrbcg8HBw)

@@ -23,8 +23,8 @@ General guidelines:
 	- positive & negative values: linear
 	- only positive values: ReLU
 	- multi-class classification: softmax
-
 ### Impact on Learning
 - Affects the speed of training convergence.
 - Influences the occurrence of problems like vanishing gradient or exploding gradient.
 - Can impact the network's ability to approximate complex functions.
+- Note that putting linear activation function (meaning no activation function) into the hidden layers of the neural network doesn't make any sense as linear function of linear function is linear function.
