@@ -1,0 +1,3 @@
+2024/08/20, #chess #notes #umarik 
+
+In Chess club, you'll learn the rules and tactics of this game, solve riddles, analyze positions, and of course, compete against each other in friendly matches. This could be the right place for you whether you're aiming to master advanced strategies or you just enjoy the thrill of the game. Join us to sharpen your mind, improve your skills, and have fun with other chess enthusiasts!

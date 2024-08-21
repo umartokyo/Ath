@@ -6,7 +6,8 @@ Activation functions are used in [[neural network]]s to determine the output of 
 2. [[hyperbolic tangent, tanh]]
 3. [[rectifier, ReLU]]
 4. [[leaky ReLU]]
-5. [[softmax]]
+5. [[swish]]
+6. [[softmax]]
 ## Choosing Activation Functions
 Factors to consider:
 1. Type of problem
@@ -15,8 +16,14 @@ Factors to consider:
 4. Computational efficiency
 
 General guidelines:
-- Hidden layers: rectifier, ReLU or its variants are often a good default choice.
-- Output layer: Depends of a problem, usually logistic, sigmoid for binary classification and softmax for multi-class.
+- Hidden layers: 
+	- ReLU is the most common choice
+- Output layer: 
+	- 1/0, binary classification: sigmoid
+	- positive & negative values: linear
+	- only positive values: ReLU
+	- multi-class classification: softmax
+
 ### Impact on Learning
 - Affects the speed of training convergence.
 - Influences the occurrence of problems like vanishing gradient or exploding gradient.
