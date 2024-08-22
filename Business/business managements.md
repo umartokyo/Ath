@@ -35,4 +35,5 @@ Internal Assessment Criteria
 7. Presentation
 
 ---
-[[nature and role of business]] [[doughnut economics model]]
+[[nature and role of business]] [[doughnut economics model]].
+
