@@ -11,3 +11,11 @@ Ask AI these questions and compare results:
 - What are possible results of a Sudan civil war
 - What are the ways to handle monkey-pox epidemic
 Were the results the same? Does it tell us anything about AI's trustworthiness?
+## Assessments
+Formative (throughout unit):
+- Short class presentations
+- Journal check
+- Knowledge question responses
+Summatives (TBD):
+- Object and knowledge question connection
+- ToK journal

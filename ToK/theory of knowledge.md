@@ -7,6 +7,9 @@ We question things: Why is like that? Who made it like that?
 ## Theory of Knowledge
 ### Knowledge framework
 - Scope
+	- Think of knowledge as a map
+	- Good maps balance tension between accuracy and usefulness between truthful representation & practicality & we should find ways for knowledge to do the same.
+	- How and why do we decide what we should learn?
 - Methods & Tools
 - Perspectives
 - Ethics
@@ -32,7 +35,7 @@ We question things: Why is like that? Who made it like that?
 ### ChatGPT & the ToK course
 - Use it in ToK as a research tool.
 - If you use ChatGPT as in means of writing you'll be failed.
-## Assessments
+## Final Assessments 
 One-time:
 - DP 1: Exhibition, May 2025
 - DP 2: Essay, January 2026
@@ -59,8 +62,17 @@ Optional themes:
 - The Official focus of the ToK is:
 	- The knowledge and technology
 	- The knowledge and politics
+## Assessments
+Formative (throughout unit):
+- Short class presentations
+- Journal check
+- Knowledge question responses
+Summatives (TBD):
+- Object and knowledge question connection
+- ToK journal
 ## Notes
 1. [[tok1 - starter]]
+2. [[tok2]]
 
 ---
 
