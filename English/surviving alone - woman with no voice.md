@@ -1,4 +1,4 @@
-2024/08/19, #school #English #notes #umarik #offline
+2024/08/19, #school #English #notes #umarik #online
 ## Unit Summative:
 - Sep 2nd: Area of Exploration Presentation
 - Sep 16th: "Woman with no Voice" PSA
