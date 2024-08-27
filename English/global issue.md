@@ -21,3 +21,16 @@ Layers of Abstraction:
 	Concrete thing is a solid idea and abstract thing is the outcome, your interpretation of it.
 	We can get from Michael Brown - Ferguson - Racial profiling - Black lives matter - Racial Profiling - Racism - Discrimination - Injustice, and we could go into so many more different places than Injustice.
 
+**Creating Global Issue Exercise**
+- Example 1
+	- **Global Issue**: Isolation
+	- **Ladder of Abstraction**: party → rape → fear to speak → lack of communication → isolation
+	- **Seven Concepts**: Identity
+	- **Five Fields of Inquiry**: politics, power, justice
+	- **Global Issue Statement**: Fear of speaking up after assault can lead to isolation of one's self.
+- Example 2
+	- **Global Issue**: Support
+	- **Ladder of Abstraction**: party → rape → fear to speak → lack of communication → isolation → support from others  → feeling of self worth  →  self acceptance  → opening up
+	- **Seven Concepts**: Communication
+	- **Five Fields of Inquiry**: culture, identity, community
+	- **Global Issue Statement**: Support from other individuals from the society helps enclosed people to speak up.

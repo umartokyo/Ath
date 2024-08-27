@@ -5,6 +5,7 @@ Formative (throughout unit):
 - Journal check
 - Knowledge question responses
 Summatives (TBD):
+- **Sep 30**: Article analysis & Response
 - Object and knowledge question connection
 - ToK journal
 ## Notes
