@@ -10,10 +10,10 @@ aim: develop confident, creative and compassionate business leaders.
 5. Chief marketing manager: in charge of sales, designs...
 
 Concepts:
-- Sustainability
-- Ethics
+- [[Sustainability]]
 - Change
 - Creativity
+- Ethics
 
 Applications of our contexts:
 - Case studies
@@ -35,5 +35,6 @@ Internal Assessment Criteria
 7. Presentation
 
 ---
-[[nature and role of business]] [[doughnut economics model]].
-
+- [[nature and role of business]]
+- [[doughnut economics model]]
+- [[Stakeholders]]
