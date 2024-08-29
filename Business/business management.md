@@ -1,6 +1,7 @@
 2024/08/21, #school #business-management #notes #umarik 
 
 aim: develop confident, creative and compassionate business leaders.
+	businesses solve problems by producing goods and services
 
 5 main roles in the business:
 1. CEO: lead the whole team, organize the senior
@@ -10,7 +11,7 @@ aim: develop confident, creative and compassionate business leaders.
 5. Chief marketing manager: in charge of sales, designs...
 
 Concepts:
-- [[Sustainability]]
+- [[sustainability]]
 - Change
 - Creativity
 - Ethics
@@ -36,5 +37,11 @@ Internal Assessment Criteria
 
 ---
 - [[nature and role of business]]
-- [[doughnut economics model]]
-- [[Stakeholders]]
+- [[economy]]
+- [[business model]]
+- [[stakeholders]]
+
+---
+## Lexicon
+- Tangible - perceived by touch.
+- Intangible - cannot be touched.
