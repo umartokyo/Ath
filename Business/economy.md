@@ -10,5 +10,3 @@ Nowadays, we use the word economy to refer to a system for producing and distrib
 
 ## Sectors of the Economy
 Economics can be through of the activities happening and goods produced, and subdivided into four primary sectors depending on these factors.
-
- 
