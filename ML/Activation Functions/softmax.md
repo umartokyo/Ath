@@ -1,6 +1,6 @@
 2024/08/22, #ML #wiki #umarik 
 
-Softmax is a generalization of [[logistic, sigmoid]] or [[logistic regression 1]]] algorithm to the [[multi-class classification]] contexts. 
+Softmax is a generalization of [[logistic, sigmoid]] or [[logistic regression 1]] algorithm to the [[multi-class classification]] contexts. 
 
 $$y, j=1,2,3...N$$
 $$z_j=\vec{w_j}*\vec{x}+b_j$$
