@@ -62,7 +62,7 @@ Conversation
 	Umarbek: Sure. But how valuable it is?
 
 Quote 1
-	“Put simply, people tend to do what they know and fail to do that which they have no ception of in that way, ignorance profoundly channels the course we take in life” 
+	“Put simply, people tend to do what they know and fail to do that which they have no perception of in that way, ignorance profoundly channels the course we take in life” 
 	-David Dunning 2010
 
 Quote 2

@@ -13,4 +13,4 @@
 - Puritan - protestants who left England between 16th, 17th centuries because they were more religious. (American's thanksgiving. Mayflower...)
 - Adulter - adult person who cheats on their husband/wife.
 - Affirm - offer someone emotional help or encouragement.
-- Grooming - convincing that something is okay, slowly setting up a person to sexually assaulting a person; slowly changing into something else.
+- Grooming - convincing that something is okay, slowly setting up a person to sexually assault a person; slowly changing into something else.

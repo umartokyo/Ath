@@ -26,3 +26,24 @@ Note how its 43% men, and Ms.Phelps states that almost all of it happens when th
 Suburbia, location where Melinda lives, which is common place to be sexually assaulted and men to get away from it because people think everything and everyone is perfect in suburbia. 
 
 Impact of social media in MeToo movement is significant. It helped to create a community and raise an awareness concerning the topic. The fact that even such small actress Alyssa Milano blew this topic up in 48 hours, shows how important the topic is.
+## Sep 2
+Women who resolve domestic violence are 80 percent less prone for this but when this happens in workplace, outside then MeToo is what happens. I will be constantly asking if something still happens. Whenever you watch red carpet things, people always ask women of what they are wearing and what they are wearing and if anything wrong with it, then something happens with her while men just come in suits. There isn't a place on the internet which is 100% innocent. If a man is accused of something it's guilty if not proven wrong. A single kid can destroy teacher's life by just saying something bad about him, and it will bring severe damage to teacher's reputation. Guilty until proven innocent. If some male was accused of it, it will follow him 'till the end of his life and afterwards. 
+### Individual Oral Guide 2024
+![](https://www.youtube.com/watch?v=nLg8bcCCXjU)
+
+```
+         *                 *                  *              *
+                                                      *             *
+                        *            *                             ___
+  *               *                                          |     | |
+        *              _________##                 *        / \    | |
+                      @\\\\\\\\\##    *     |              |--o|===|-|
+  *                  @@@\\\\\\\\##\       \|/|/            |---|   |H|
+                    @@ @@\\\\\\\\\\\    \|\\|//|/     *   / N   \  |E|
+             *     @@@@@@@\\\\\\\\\\\    \|\|/|/         |  A    | |L|
+                  @@@@@@@@@----------|    \\|//          |  S    |=|P|
+       __         @@ @@@ @@__________|     \|/           |  A    | | |
+  ____|_@|_       @@@@@@@@@__________|     \|/           |_______| |M|
+=|__ _____ |=     @@@@ .@@@__________|      |             |@| |@|  |E|
+____0_____0__\|/__@@@@__@@@__________|_\|/__|___\|/__\|/___________|_|_
+```

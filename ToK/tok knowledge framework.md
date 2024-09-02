@@ -5,4 +5,5 @@
 - How and why do we decide what we should learn?
 ## Methods & Tools
 ## Perspectives
+When we look at human, natural sciences, arts, mathematics and history, we need to figure out if it's belief, opinion or a knowledge. 
 ## Ethics
