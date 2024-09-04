@@ -37,13 +37,35 @@ Women who resolve domestic violence are 80 percent less prone for this but when 
                         *            *                             ___
   *               *                                          |     | |
         *              _________##                 *        / \    | |
-                      @\\\\\\\\\##    *     |              |--o|===|-|
+                      @\\\\\\\\\##    *     |              |--U|===|-|
   *                  @@@\\\\\\\\##\       \|/|/            |---|   |H|
-                    @@ @@\\\\\\\\\\\    \|\\|//|/     *   / N   \  |E|
-             *     @@@@@@@\\\\\\\\\\\    \|\|/|/         |  A    | |L|
-                  @@@@@@@@@----------|    \\|//          |  S    |=|P|
-       __         @@ @@@ @@__________|     \|/           |  A    | | |
+                    @@ @@\\\\\\\\\\\    \|\\|//|/     *   /     \  |E|
+             *     @@@@@@@\\\\\\\\\\\    \|\|/|/         |  S    | |L|
+                  @@@@@@@@@----------|    \\|//          |  O    |=|P|
+       __         @@ @@@ @@__________|     \|/           |  S    | | |
   ____|_@|_       @@@@@@@@@__________|     \|/           |_______| |M|
 =|__ _____ |=     @@@@ .@@@__________|      |             |@| |@|  |E|
 ____0_____0__\|/__@@@@__@@@__________|_\|/__|___\|/__\|/___________|_|_
 ```
+## Sep 4
+Find evidences of these lessons in *Speak*:
+- Do not bottle up your emotions.
+	- p122, p57
+- The importance of friendship.
+	- p55-57, p173-176
+	- Ivy and Rachelle are juxtaposition of each other. Ivy is kind and nice person and just helps Melinda to clean up her shirt, while Rachelle is rude and ugly creation of this planet.
+- Must learn to face your problems no matter how difficult or painful.
+	- p180-184
+	- p91-92: Shows Melinda facing challenges with creation of her art, where she accidentally cuts herself and feels frustrated with it yet continues to work with it. It shows how she's willing to confront her difficulties and progress through her life.
+- Keep in mind everyone is going through something.
+	- p184-185: Ivy shows the chatrooms with the list of guys to stay away from, and Melinda sees how other girls got assaulted by Andy.
+	- p105-107: Heather breaks up with Melinda saying she's not fun and is different without considering why.
+	- p28: Girls recognizes Melinda and says her brother was arrested, saying she is a jerk.
+	- p197: Andy assaulted her again and one of the seniors asks her if she's okay.
+	- p9: Melinda meets Mr.Neck, where he asks where she's going, while Melinda says "Nobody wants to hear what you say", which shows how she feels about other people's view on her.
+- Be mindful of the emotions of the ones around you.
+	- p4-5: Rachelle was her friend before yet not is laughing about her; Melinda is upset about this situation, and feels betrayed. This shows we should be mindful of each other.
+	- p116: Melinda cleans the garden and there's a conversation between her and her father. "I can't tell if he's angry or not or he just likes seeing mess in front of his house"
+
+> Keep in mind everyone's going through something
+
