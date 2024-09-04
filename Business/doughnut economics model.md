@@ -1,6 +1,7 @@
 2024/08/21, #school #business-management #notes #umarik 
 
-Sustainability: meeting the needs of all humans within the means of the planet.
+> Sustainability: meeting the needs of all humans within the means of the planet.
+
 ![[doughnut-model.png]]
 - The outer layer of the doughnut economics [[business model]] is focused on natural environment; systems important to keep the planet stable for life.
 	- Red areas show the sectors where we're already putting too much pressure on Earth's systems.
