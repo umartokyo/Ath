@@ -20,6 +20,10 @@ Neural network consists of three main categories:
 2. [[cost function]]: Measures the difference between the predicted and real value.
 3. [[backpropagation]]: The error is propagated backwards through the network to adjust its weights and biases.
 4. [[optimization function]] An algorithm that updates the parameters to minimize the loss.
+
+Additionally:
+- [[feature regularization]]
+- [[data normalization]]
 ## Advantages and Challenges
 Advantages:
 - Learns complex, non-linear relationships from data.
