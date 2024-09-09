@@ -1,7 +1,7 @@
 2024/08/19, #school #English #notes #umarik #offline 
 ## Unit Summative:
-- Sep 2nd: Area of Exploration Presentation
-- Sep 16th: "Woman with no Voice" PSA
+- Sep 2nd: [[area of exploration presentation]]
+- Sep 16th: "Woman with no Voice" PSA  [[woman with no voice, PSA]]
 - Oct 21st: First Mock Individual Oral
 ## Speak
 [[speak - characters]]

@@ -68,4 +68,17 @@ Find evidences of these lessons in *Speak*:
 	- p116: Melinda cleans the garden and there's a conversation between her and her father. "I can't tell if he's angry or not or he just likes seeing mess in front of his house"
 
 > Keep in mind everyone's going through something
+## Sep 9
+How can the meaning of a text be constructed, negotiated, expressed or interpreted by readers & writers? Using two literary text you have studied describe how a readers & writers are shown a text's meaning. 
+	All AOE questions are paper 2 questions reworded a bit. - Ms.Phelps
 
+Paper 2 is the hardest what we'll do in the future so that's why most of the things we're doing will be a cheat-sheet for paper 2. We were able to dissect a question by breaking it down into sections and have created an answer to paper 2 question without even knowing it.
+
+**Toxic Masculinity**
+Toxic Masculinity: 
+- "Being jacked". Competing over being more muscular and man is called so. 
+- Masculinity: Qualities or attributes regarded as characteristic of men or boys.
+- A collection of offensive, harmful beliefs tendencies, and behaviours rooted in traditional male roles but taken to an extreme. This dangerous idea of "manliness" perpetuates domination, homophobia, and aggression and can be harmful to the mental health of all genders.
+- Physical aggression is a socially constructed gendered behavior embedded in the social meanings of masculinities across many cultures. The general unwillingness of people to recognize that violence is a men's issue is also reflected in general society.
+- As an excuse of something being stupid is "boys will be boys" but there's no phrase as "girls will be girls" - Ms.Phelps
+- Because of toxic masculinity, we have the issues within speak. Andy wouldn't rape Melinda, Mr.Neck would be acting more humane. Toxic masculinity is a catalyst of Melinda's mental issues.
