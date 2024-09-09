@@ -32,3 +32,12 @@ Businesses can be mixed;
 2. Drilling for oil: primary
 3. Refining it into usable product: secondary
 4. Selling it in petrol stations: tertiary
+
+**Impacts on sectors**:
+The resources of a country, and its stage of economic development, have an influence on which sectors dominate economy.Over time, countries economies shift from to next sectors:
+1. THe primary sector has declined as share of economic activity.
+2. There has been an increase in secondary sector activity.
+3. Then, in many countries, there has been a decline in secondary sectors...
+However, there are some exceptions for this growth style. Some countries might rely on tourism (tertiary sector) and so on.
+
+> GDP, Gross domestic product: The total value of goods produced and services provided in a country over certain period.

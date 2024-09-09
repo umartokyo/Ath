@@ -40,6 +40,7 @@ Internal Assessment Criteria
 - [[economy]]
 - [[business model]]
 - [[stakeholders]]
+- [[starting a business]]
 
 ---
 ## Lexicon
