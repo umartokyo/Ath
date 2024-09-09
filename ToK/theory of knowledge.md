@@ -3,6 +3,7 @@
 ## Table of Contests
 [[tok knowledge and knower]] (core theme)
 [[tok knowledge framework]]
+[[knowledge questions]]
 [[tok unit1]]
 ## Areas of Knowledge (AoK's)
 - The Arts

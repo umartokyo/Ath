@@ -14,6 +14,8 @@ Summatives (TBD):
 3. [[tok3]]
 4. [[tok4]]
 5. [[tok5]]
+6. [[tok6]]
+7. [[tok7]]
 ## Lexicon
 - Dogma: traditions
 - Contestable: can't be questioned
