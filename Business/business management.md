@@ -41,8 +41,11 @@ Internal Assessment Criteria
 - [[business model]]
 - [[stakeholders]]
 - [[starting a business]]
+- [[entrepreneurial mindset and skill-set]]
+- [[reasons to start a new business]]
 
 ---
 ## Lexicon
 - Tangible - perceived by touch.
 - Intangible - cannot be touched.
+- Bankruptcy - state of being completely lacking in a particular quality or value.

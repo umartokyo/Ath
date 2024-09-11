@@ -11,3 +11,4 @@ A business has a good chance of success when:
 - The operations are efficient and resilient; operations
 
 [[swot analysis]]
+
