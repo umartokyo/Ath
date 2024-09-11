@@ -7,6 +7,7 @@
 [[speak - characters]]
 [[global issue]]
 [[speak notes]]
+[[john oliver]]
 ## Lexicon:
 - Exposé - report in media revealing something discreditable.
 - Discreditable - brings harm to reputation.

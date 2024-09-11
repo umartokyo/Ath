@@ -81,9 +81,4 @@ Toxic Masculinity:
 - A collection of offensive, harmful beliefs tendencies, and behaviours rooted in traditional male roles but taken to an extreme. This dangerous idea of "manliness" perpetuates domination, homophobia, and aggression and can be harmful to the mental health of all genders.
 - Physical aggression is a socially constructed gendered behavior embedded in the social meanings of masculinities across many cultures. The general unwillingness of people to recognize that violence is a men's issue is also reflected in general society.
 - As an excuse of something being stupid is "boys will be boys" but there's no phrase as "girls will be girls" - Ms.Phelps
-- Because of toxic masculinity, we have the issues within speak. Andy wouldn't rape Melinda, Mr.Neck would be acting more humane. Toxic masculinity is a catalyst of Melinda's mental issues.
-## Sep 10
-Satire: making fun of society.
-Bill Clinton was kicked out from his presidency when he've lied under an oath that he haven't slept with Monica Lewinsky. In the Starr report, you can read through all the horrible aspects of this affair. Up to this day, nobody mention's Bill's affair and he got away with having an affair with 22 year old very easily as he got all the power.
-
-Public Shaming and John Oliver; Saturday Night
+- Because of toxic masculinity, we have the issues within speak. Andy wouldn't rape Melinda, Mr.Neck would be acting more humane. Toxic masculinity is a catalyst of Melinda'
