@@ -37,5 +37,21 @@ Each class structure:
 - Division of chess into parts (Debutes, end game...) + Basic Openings (https://www.chess.com/article/view/the-best-chess-openings-for-beginners#sicilian-defense) + Kid's mate + Games
 - Other openings + 3 main rules of openings +  Clocks + Games
 - Extra about pieces (lightweight vs heavy, knights vs bishops)
-### Month 2
-### Month 3
+## Week 2
+The whole playing of chess is divided within few categories:
+1. Theory
+	- Theory is all the technical aspects of playing a chess game. All the rules, riddles, division of games into parts and so on.
+	- The game itself is divided into 3 parts:
+		- Opening
+		- Middlegame
+		- Endgame (Эндшпиль)
+	- We'll slowly cover all these topics throughout next lessons. 
+	- But for now, let's learn three major things to do within opening:
+		1. Conquer the center.
+		2. Recruit the pieces.
+		3. Hide the king.
+1. Intuition
+	- Intuition is as it sounds. It will help you with finding the best moves faster, and includes general practices while playing.
+2. Lore
+	- Lore is all the human part. We'll cover it after first two sections. This section will include us learning about lives of best chess players and analyze their games.
+
