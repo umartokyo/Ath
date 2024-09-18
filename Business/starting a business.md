@@ -12,3 +12,11 @@ A business has a good chance of success when:
 
 [[swot analysis]]
 
+Entrepreneurs will follow the similar process in order to get their business up and running:
+- **Refine the idea**: Spend considerable time getting feedback on new ideas.
+- **Prepare a [[business plan]]**: A roadmap to guide the entrepreneur.
+- **Decide on a legal structure**: Ownership? Partnership? Corporation?
+- **Register the business**: Registration paperwork and getting permissions.
+- **Find a location**: Where the business will operate.
+- **Hire employees**: Eventually, employees are needed.
+- **Get funding**: Personal savings, loans...
