@@ -1,4 +1,4 @@
-05/09/2024, #school #business-management #notes #umarik #offline 
+05/09/2024, #school #business-management #notes #umarik #online 
 
 > Why do people believe strange things + what should we do about it?
 

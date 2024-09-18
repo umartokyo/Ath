@@ -1,4 +1,4 @@
-09/09/2024, #school #business-management #notes #umarik #offline 
+09/09/2024, #school #business-management #notes #umarik #online 
 
 How do you pursue and acquire knowledge?
 > After snack break? - Imron

@@ -1,4 +1,4 @@
-2024/08/19, #school #English #notes #umarik #offline 
+2024/08/19, #school #English #notes #umarik #online 
 ## Aug 19
 Scarlet Woman
 	The story takes place in puritan England, where she has an affair and has a kid. The society decides that she has to wear a red A. (like in 'easy A' movie) She takes the whole thing in a lot of pride and wears the red letter believing that everyone is wrong.
