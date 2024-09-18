@@ -67,5 +67,17 @@ On the other hand, if $\lambda$ is very small, our polynomial is being fit with 
 Low bias $\rightarrow$ high variance over-fit
 
 If you get just right value of $\lambda$ for regularization parameter, you can use our cross-validation method with partial dataset. We train a model with list of different lambdas on our training set to later evaluate their performances with cross-validation set and choose the best-performing $\lambda$. If you plot a graph with $x=\lambda,y=J_{train}$, you'll get the exponential function. Additionally, if you fit another function $y=J_{cv}$, it will look like happy parabola. Again, we're trying to find a lowest point of the cross-validation parabola.
+## Establishing baseline performance
+Establishing baseline performance is giving some basic expectations from model's performance. Baseline performance can be predicted in three main ways:
+1. **Human performance**: You evaluate what's the human performance in doing the task and striving to close the gap between human and model performance.
+2. **Competing algorithm performance**: Taking your competitors' performance as a baseline performance for your model is another method of evaluation.
+3. **Guess based on experience**: Sounds as called, if you've trained this kind of models before you might have remembered the performance of those and can use it as the baseline performance for your new model.
 
-
+| Error type                      | High Variance | High bias | High variance & bias |
+| ------------------------------- | ------------- | --------- | -------------------- |
+| Baseline performance            | 10.6%         | 10.6%     | 10.6%                |
+| Training Error $J_{train}$      | 10.8%         | 15.0%     | 15.0%                |
+| Cross validation error $J_{cv}$ | 14.8%         | 15.5%     | 19.7%                |
+Bias / Variance examples.
+## Learning Curves
+$$p=m \times v \cdot o \div u$$
