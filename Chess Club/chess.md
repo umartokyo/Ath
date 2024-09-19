@@ -28,7 +28,14 @@ Each class structure:
 	- Introduce lichess.org.
 	- Homework
 	- Divide into groups. (Beginners and the ones who play)
+## Lesson 2
+- Couple riddles in mate in 2 and 3 if they solve it easily.
+- Revision of the 3 main rules of opening.
+- Just a fast question: how much is each pieces worth? (plus how useful it is to trade a piece)
+- [Scholar's mate](https://www.chesskid.com/learn/terms/scholars-mate-chess)
+- Division into groups and games. 
 
+---
 - Worth of knights vs Bishops, 
 
 ## 9 Month
