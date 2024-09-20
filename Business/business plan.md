@@ -32,3 +32,10 @@ Story where the guy is making a business which is destined to be failed.
 ```
 ### Know your audience
 You must know *interests* and *expectations* of your stakeholders.
+
+
+“Golden circle diagram”
+How - production process, the way the product will be produced, the day business will be set and run
+
+Typically the how and what of the business will be combine in several parts of a business plan.
+
