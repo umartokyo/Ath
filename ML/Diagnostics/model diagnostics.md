@@ -80,4 +80,4 @@ Establishing baseline performance is giving some basic expectations from model's
 | Cross validation error $J_{cv}$ | 14.8%         | 15.5%     | 19.7%                |
 Bias / Variance examples.
 ## Learning Curves
-$$p=m \times v \cdot o \div u$$
+It hardly ever hurts to have a larger neural network as long as you regularize it appropriately; as long as training set is not too large, your NN is low bias machine.
