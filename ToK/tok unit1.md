@@ -16,6 +16,7 @@ Summatives (TBD):
 5. [[tok5]]
 6. [[tok6]]
 7. [[tok7]]
+8. [[tok8]]
 
 Ethics: morals, the choice between right and wrong; relationships between facts and values.
 Ethically, white lies wouldn’t be considered unethical - Sumire
