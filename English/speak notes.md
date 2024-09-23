@@ -78,7 +78,7 @@ Paper 2 is the hardest what we'll do in the future so that's why most of the thi
 Toxic Masculinity: 
 - "Being jacked". Competing over being more muscular and man is called so. 
 - Masculinity: Qualities or attributes regarded as characteristic of men or boys.
-- A collection of offensive, harmful beliefs tendencies, and behaviours rooted in traditional male roles but taken to an extreme. This dangerous idea of "manliness" perpetuates domination, homophobia, and aggression and can be harmful to the mental health of all genders.
+- A collection of offensive, harmful beliefs tendencies, and behaviors rooted in traditional male roles but taken to an extreme. This dangerous idea of "manliness" perpetuates domination, homophobia, and aggression and can be harmful to the mental health of all genders.
 - Physical aggression is a socially constructed gendered behavior embedded in the social meanings of masculinities across many cultures. The general unwillingness of people to recognize that violence is a men's issue is also reflected in general society.
 - As an excuse of something being stupid is "boys will be boys" but there's no phrase as "girls will be girls" - Ms.Phelps
 - Because of toxic masculinity, we have the issues within speak. Andy wouldn't rape Melinda, Mr.Neck would be acting more humane. Toxic masculinity is a catalyst of Melinda'

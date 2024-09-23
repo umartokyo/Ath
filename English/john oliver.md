@@ -24,3 +24,14 @@ Golden rule: treat other people as you want to be treated.
 
 Global Issue out of :
 	Ignorance of the details of the person's reasons leads to risk of misjudgment of their actions.
+## Sep 23
+Outrage Machine: Whenever people find bits of the story, focus on it, and ruin someone's life with it. "Goldfish" effect, shortens the attention span, encouraging click-bait culture and people get inundated by not always helpful information. John Oliver is saying how outrage machine opened up endless possibilities for public shaming. Internet is erasing accountability from people. Except Linus's failed framework experiment, MeToo movement is also an example of public shaming. 
+
+> "Viral" & "Shame" would be good to have in your global issue.
+
+Note what he says about what his team choses to and not to talk about. Punishment can be vastly disproportionate to the events. Patient zero: the very first one. The consequences of misdirected anger. 
+
+Ms.Phelps was 11 or 12 when Lewinsky accident have happened. 
+Exasperated - gotten worse. 
+
+Just remember how all the public shaming went into Monika's way, but no one have blamed Bill Clinton, the president of US for anything.
