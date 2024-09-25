@@ -32,12 +32,15 @@ Each class structure:
 - Couple riddles in mate in 2 and 3 if they solve it easily.
 - Revision of the 3 main rules of opening.
 - Just a fast question: how much is each pieces worth? (plus how useful it is to trade a piece)
-- [Scholar's mate](https://www.chesskid.com/learn/terms/scholars-mate-chess)
 - Division into groups and games. 
+## Lesson 3
+- Couple riddles for mate in 2 and 3 if they are still capable.
+- Revision of how much does every piece worth. (depends on the situation, 2Bishops > 2 Knights)
+- We must have some strategy!!! (Talk about necessity of strategy and advantage of having a good one.)
+- Brainstorming about tournament.
+- Division into groups and games
 
 ---
-- Worth of knights vs Bishops, 
-
 ## 9 Month
 ### Month 1
 - Goal + Movement, Capturing Pieces, Positioning + Lichess + Games
