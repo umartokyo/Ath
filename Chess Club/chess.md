@@ -36,7 +36,8 @@ Each class structure:
 ## Lesson 3
 - Couple riddles for mate in 2 and 3 if they are still capable.
 - Revision of how much does every piece worth. (depends on the situation, 2Bishops > 2 Knights)
-- We must have some strategy!!! (Talk about necessity of strategy and advantage of having a good one.)
+- Strategies 
+- The online game
 - Brainstorming about tournament.
 - Division into groups and games
 
