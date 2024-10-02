@@ -2,12 +2,12 @@
 ## Unit Summative:
 - Sep 2nd: [[area of exploration presentation]]
 - Sep 16th: "Woman with no Voice" PSA  [[woman with no voice, PSA]]
-- Oct 21st: First Mock Individual Oral
+- Oct 21st: [[mini individual oral]]
 ## Speak
 [[speak - characters]]
 [[global issue]]
 [[speak notes]]
-[[john oliver]]
+[[john oliver notes]]
 ## Lexicon:
 - Exposé - report in media revealing something discreditable.
 - Discreditable - brings harm to reputation.
