@@ -36,9 +36,14 @@ Each class structure:
 ## Lesson 3
 - Couple riddles for mate in 2 and 3 if they are still capable.
 - Revision of how much does every piece worth. (depends on the situation, 2Bishops > 2 Knights)
-- Strategies 
-- The online game
+- Strategies (Pins and Forks) 
 - Brainstorming about tournament.
+- Division into groups and games
+## Lesson 4
+- Couple riddles
+- Revision
+- Strategies (X-ray and Squire)
+- The online game & tournament
 - Division into groups and games
 
 ---
