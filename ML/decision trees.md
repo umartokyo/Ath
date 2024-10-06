@@ -76,3 +76,12 @@ In a cat/dog classifier, we can add another feature, weight. But then how would 
 We would plot a graph, where $x$=weight and $y$=cat/not cat. We would draw a vertical line and measure the entropy of it (fraction of cats and non-cats on the left...). In practice, we often measure the entropy for every line between every two consecutive parameters and choose the one with highest information gain. Using this, we can find an optimal value of weight as a splitting factor.
 
 **Regression trees**
+Everything stays the same as in the decision tree, but now we want to predict a discrete number at the end of the tree. Do do so, we're taking an average of all the numbers at the left nodes and assigning that value to the result.
+
+Now, one of the factors to consider while splitting, rather than trying to reduce the entropy, we are trying to reduce the variance of the values y, how wide is the range of values. To get the wanted result, we can just choose the value of the weighted variance which is the lowest -> increase reduction of variance; information gain. (variance of the root node - variance of the decision nodes.)
+
+**Tree Ensembles**
+
+
+
+ 
