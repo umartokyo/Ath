@@ -13,7 +13,7 @@ Decision Tree Learning
 	- When a node is 100% one class.
 	- When splitting a node will result in tree exceeding a maximum depth. (depth: number of splits we had so far) (Making a tree small will make it less prone to overfitting)
 	- When improvements in purity score are below a threshold.
-	- When number of examples in a node is below a threshold.
+	- When number of examples in a node is below a threshold
 
 **Entropy  as a measuring of purity; Information theory :D**
 
