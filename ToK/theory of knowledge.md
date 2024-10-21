@@ -1,12 +1,11 @@
 2024/08/19, #school #ToK #main #umarik #offline
-
 ## Table of Contests
 [[tok knowledge and knower]] (core theme)
 [[tok knowledge framework]]
 [[knowledge questions]]
 [[tok unit1]]
 ## Areas of Knowledge (AoK's)
-- The Arts
+- [[aok, the arts]]
 - History
 - Mathematics
 - Natural Sciences
