@@ -43,6 +43,8 @@ Internal Assessment Criteria
 - [[starting a business]]
 - [[entrepreneurial mindset and skill-set]]
 - [[reasons to start a new business]]
+- [[business objectives]]
+- [[growth and profits]]
 
 ---
 ## Lexicon
