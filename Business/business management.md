@@ -45,6 +45,7 @@ Internal Assessment Criteria
 - [[reasons to start a new business]]
 - [[business objectives]]
 - [[growth and profits]]
+- [[corporate social responsibility - CSR]]
 
 ---
 ## Lexicon

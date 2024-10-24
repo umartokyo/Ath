@@ -10,3 +10,5 @@ With excessive value extraction, one group of stakeholders captures for itself a
 - Paying workers below the living wage
 - Limiting reinvestments
 - Cutting costs by using processes that damage the environment
+
+The average holding time of stock declined from eight years in the mid-20th century to just 5 months in 2020. This stresses businesses to maximize profits in short term to stay alive. This results in losses for both business and society.
